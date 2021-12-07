@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
-description: "suzume is a lightweight Riichi Mahjong engine written in C++14."
-lead: "suzume is a lightweight Riichi Mahjong engine written in C++14."
+title: "初めての方へ"
+description: "suzume：C++14を採用したリーチ麻雀エンジン。"
+lead: "suzume：C++14を採用したリーチ麻雀エンジン。"
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false

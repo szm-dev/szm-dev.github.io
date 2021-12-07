@@ -17,7 +17,7 @@
   contentDir = "content/jp"
   weight = 15
   [jp.params]
-    languageISO = "JP"
+    languageISO = "JA"
 
 [nl]
   languageName = "Nederlands"
